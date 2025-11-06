@@ -1,4 +1,4 @@
-backend_repo_url: "https://github.com/pravinmishraaws/book-review-app.git"
+backend_repo_url: "https://github.com/blessedsoft/blessedsoft-book-review-app.git"
 backend_app_port: 3001
 db_host: "dmi-bookreview-db.mysql.database.azure.com"
 db_user: "mysqladmin"
